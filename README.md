@@ -1,4 +1,5 @@
 
+[![Jekyll site CI](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml)
 # Front End Development
 
 ## colmar-academy
