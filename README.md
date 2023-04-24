@@ -1,5 +1,5 @@
 
-[![Jekyll site CI](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb08c30c-6818-4467-bfef-1e22e19fc091/deploy-status)](https://app.netlify.com/sites/colmar-academy-ca/deploys)
+[![Jekyll site CI](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/SOliv1/colmar-academy/actions/workflows/jekyll-docker.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb08c30c-6818-4467-bfef-1e22e19fc091/deploy-status)](https://app.netlify.com/sites/colmar-academy-ca/deploys) [![pages-build-deployment](https://github.com/SOliv1/colmar-academy/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/colmar-academy/actions/workflows/pages/pages-build-deployment)
 
 View live project [Here](https://colmar-academy-ca.netlify.app)
 # Front End Development
