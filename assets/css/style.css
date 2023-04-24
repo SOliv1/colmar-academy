@@ -1,5 +1,6 @@
 
 /*font-family  'Montserrat', sans-serif */
+
 html {
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
@@ -37,7 +38,7 @@ h3 {
     width: 100%;
 }
 
-/* Universal Component - Flex Content Container */
+/* Flex Content */
 
 .flex-content {
     display: flex;
@@ -57,7 +58,7 @@ h3 {
     padding: 2rem 0;
 }
 
-/* Universal Component - Content Image Box */
+/* Content Image Box */
 
 .content-image-box {
     display: flex;
