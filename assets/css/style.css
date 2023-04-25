@@ -2,6 +2,7 @@
 /*font-family  'Montserrat', sans-serif */
 
 html {
+    display: flex;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     color: rgb(73, 71, 71);
@@ -25,6 +26,7 @@ h2 {
 }
 
 h3 {
+    display: flex;
     font-weight: bold;
 }
 
@@ -202,6 +204,13 @@ header .mobile {
 #banner h3 {
     padding-bottom: 2rem;
     font-size: 2rem;
+}
+
+#banner h3 .mobile {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 2rem;
+    font-size: inherit;
 }
 
 #banner p {
