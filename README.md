@@ -4,7 +4,8 @@
 View live project [Here](https://colmar-academy-ca.netlify.app)
 # Front End Development
 
-## colmar-academy
+## colmar-capstone-academy
+## Codecademy Project
 
 ### some useful tools
 
